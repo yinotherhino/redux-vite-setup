@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: unset;
+  padding: 40px;
+}
+
+p{
+  cursor: pointer;
+}
